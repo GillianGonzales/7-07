@@ -3,9 +3,9 @@
 -- main.lua
 --
 -- Created By Gillian Gonzales
--- Created On April 30 2018
+-- Created On May 1 2018
 --
--- This code will shoot a kuni from the character
+-- this code will Kill the enemy
 -----------------------------------------------------------------------------------------
 
 -- Adding Physics
